@@ -1,26 +1,32 @@
-Beskrivelse,Ingrediens,Ingrediens Subkategori,Oppfattet i / som,Farge
-Gress,Malt,Lys,"Smak, aroma, sødme",
-Høy,Malt,Lys,"Smak, aroma, sødme",
-Korn,Malt,Lys,"Smak, aroma, sødme",
-Kjeks,Malt,Lys,"Smak, aroma, sødme",
-Loff,Malt,Lys,"Smak, aroma, sødme",
-Smørloff,Malt,Lys,"Smak, aroma, sødme",
-Lyst brød,Malt,Lys,"Smak, aroma, sødme",
-Søt malt,Malt,Lys,"Smak, aroma, sødme",
-Brød,Malt,Lys,"Smak, aroma, sødme",
-Lys brødkrumme,Malt,Lys,"Smak, aroma, sødme",
-Ristet loff,Malt,Lys,"Smak, aroma, sødme",
-Ristet brød,Malt,Lys,"Smak, aroma, sødme",
-Brødskorpe,Malt,Lys,"Smak, aroma, sødme",
-Honning,Malt,Lys,"Smak, aroma, sødme",
-Vørter,Malt,Lys,"Smak, aroma, sødme",
-Toffee,Malt,Karamell,"Smak, aroma, sødme",
-Karamell,Malt,Karamell,"Smak, aroma, sødme",
-Nøtter,Malt,Spesialmalt,"Smak, aroma, sødme",
-Røkt skinke,Malt,Spesialmalt,"Smak, aroma, sødme",
-Røkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",
-Orerøkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",
-Bål,Malt,Spesialmalt,"Smak, aroma, sødme",
-Tørket frukt,Malt,Mørk,"Smak, aroma, sødme",
-Rosiner,Malt,Mørk,"Smak, aroma, sødme",
-Ristet brødskorpe,Malt,Mørk,"Smak, aroma, sødme",
+Beskrivelse,Ingrediens,Ingrediens Subkategori,Oppfattet i / som,Fargeindex (tab20)
+Gress,Malt,Lys,"Smak, aroma, sødme",11
+Høy,Malt,Lys,"Smak, aroma, sødme",11
+Korn,Malt,Lys,"Smak, aroma, sødme",11
+Kjeks,Malt,Lys,"Smak, aroma, sødme",11
+Loff,Malt,Lys,"Smak, aroma, sødme",11
+Smørloff,Malt,Lys,"Smak, aroma, sødme",11
+Lyst brød,Malt,Lys,"Smak, aroma, sødme",11
+Søt malt,Malt,Lys,"Smak, aroma, sødme",11
+Brød,Malt,Lys,"Smak, aroma, sødme",11
+Lys brødkrumme,Malt,Lys,"Smak, aroma, sødme",11
+Ristet loff,Malt,Lys,"Smak, aroma, sødme",11
+Ristet brød,Malt,Lys,"Smak, aroma, sødme",11
+Brødskorpe,Malt,Lys,"Smak, aroma, sødme",11
+Honning,Malt,Lys,"Smak, aroma, sødme",11
+Vørter,Malt,Lys,"Smak, aroma, sødme",11
+Toffee,Malt,Karamell,"Smak, aroma, sødme",12
+Karamell,Malt,Karamell,"Smak, aroma, sødme",12
+Nøtter,Malt,Spesialmalt,"Smak, aroma, sødme",13
+Røkt skinke,Malt,Spesialmalt,"Smak, aroma, sødme",13
+Røkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",13
+Orerøkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",13
+Bål,Malt,Spesialmalt,"Smak, aroma, sødme",13
+Tørket frukt,Malt,Mørk,"Smak, aroma, sødme",14
+Rosiner,Malt,Mørk,"Smak, aroma, sødme",14
+Banan,Gjær,Ester,"Smak, aroma",15
+Nellik,Gjær,Ester,"Smak, aroma",15
+Pepper,Gjær,Ester,"Smak, aroma",15
+Stall,Gjær,Brett,"Smak, aroma",15
+Fjøs,Gjær,Brett,"Smak, aroma",15
+Lær,Gjær,Brett,"Smak, aroma",15
+Fenolisk,Usmak,Ok for noen stiler,"Smak, aroma",17
