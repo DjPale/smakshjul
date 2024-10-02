@@ -1,106 +1,108 @@
-Beskrivelse,Ingrediens,Ingrediens Subkategori,Oppfattet i / som,Fargeindex (tab20)
-Gress,Malt,Lys,"Smak, aroma, sødme",11
-Høy,Malt,Lys,"Smak, aroma, sødme",11
-Korn,Malt,Lys,"Smak, aroma, sødme",11
-Kjeks,Malt,Lys,"Smak, aroma, sødme",11
-Loff,Malt,Lys,"Smak, aroma, sødme",11
-Smørloff,Malt,Lys,"Smak, aroma, sødme",11
-Lyst brød,Malt,Lys,"Smak, aroma, sødme",11
-Søt malt,Malt,Lys,"Smak, aroma, sødme",11
-Brød,Malt,Lys,"Smak, aroma, sødme",11
-Lys brødkrumme,Malt,Lys,"Smak, aroma, sødme",11
-Ristet loff,Malt,Lys,"Smak, aroma, sødme",11
-Ristet brød,Malt,Lys,"Smak, aroma, sødme",11
-Brødskorpe,Malt,Lys,"Smak, aroma, sødme",11
-Honning,Malt,Lys,"Smak, aroma, sødme",11
-Vørter,Malt,Lys,"Smak, aroma, sødme",11
-Toffee,Malt,Karamell,"Smak, aroma, sødme",10
-Karamell,Malt,Karamell,"Smak, aroma, sødme",10
-Nøtter,Malt,Spesialmalt,"Smak, aroma, sødme",10
-Røkt skinke,Malt,Spesialmalt,"Smak, aroma, sødme",10
-Røkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",10
-Orerøkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",10
-Bål,Malt,Spesialmalt,"Smak, aroma, sødme",10
-Tørket frukt,Malt,Mørk,"Smak, aroma, sødme",9
-Rosiner,Malt,Mørk,"Smak, aroma, sødme",9
-Ristet brødskorpe,Malt,Mørk,"Smak, aroma, sødme",9
-Røstet malt,Malt,Mørk,"Smak, aroma, sødme",9
-Brent brødskorpe,Malt,Mørk,"Smak, aroma, sødme",9
-Melkesjokolade,Malt,Mørk,"Smak, aroma, sødme",9
-Lakris,Malt,Mørk,"Smak, aroma, sødme",9
-Tobakk,Malt,Mørk,"Smak, aroma, sødme",9
-Mørk sjokolade,Malt,Mørk,"Smak, aroma, sødme",9
-Kaffe,Malt,Mørk,"Smak, aroma, sødme",9
-Aske,Malt,Mørk,"Smak, aroma, sødme",9
-Molasse,Sukker,Sukker,"Smak, aroma, sødme",19
-Tørket frukt,Sukker,Sukker,"Smak, aroma, sødme",19
-Sirup,Sukker,Sukker,"Smak, aroma, sødme",19
-Knekk,Sukker,Sukker,"Smak, aroma, sødme",19
-Mørk sirup,Sukker,Sukker,"Smak, aroma, sødme",19
-Brent knekk,Sukker,Sukker,"Smak, aroma, sødme",19
-Pære,Gjær,Ester,"Smak, aroma",5
-Røde epler,Gjær,Ester,"Smak, aroma",5
-Plommer,Gjær,Ester,"Smak, aroma",5
-Marmelade,Gjær,Ester,"Smak, aroma",5
-Tyggegummi,Gjær,Ester,"Smak, aroma",5
-Tutti Frutti,Gjær,Ester,"Smak, aroma",5
-Banan,Gjær,Ester,"Smak, aroma",5
-Nellik,Gjær,Ester,"Smak, aroma",5
-Pepper,Gjær,Ester,"Smak, aroma",5
-Stall,Gjær,Brett,"Smak, aroma",11
-Fjøs,Gjær,Brett,"Smak, aroma",11
-Lær,Gjær,Brett,"Smak, aroma",11
-Fenolisk,Usmak,Ok for noen stiler,"Smak, aroma",9
-Smørbukk (Diacetyl),Usmak,Ok for noen stiler,"Smak, aroma",9
-Hermetisk Mais (DMS),Usmak,Ok for noen stiler,"Smak, aroma",9
-Sherry /  Papp (Oksidert),Usmak,Ok for noen stiler,"Smak, aroma",9
-Brent gummi,Usmak,Ølfeil,"Smak, aroma",9
-Babyspy,Usmak,Ølfeil,"Smak, aroma",9
-Grønne epler (Acetaldehyd),Usmak,Ølfeil,"Smak, aroma",9
-Papp,Usmak,Ølfeil,"Smak, aroma",9
-Aceton / løsemiddel,Usmak,Ølfeil,"Smak, aroma",9
-Gasbind,Usmak,Ølfeil,"Smak, aroma",9
-Sitrus,Humle,Amerikansk,"Smak, aroma",7
-Grapefrukt,Humle,Amerikansk,"Smak, aroma",7
-Lime,Humle,Amerikansk,"Smak, aroma",7
-Harpiks,Humle,Amerikansk,"Smak, aroma",7
-Furu,Humle,Amerikansk,"Smak, aroma",7
-Floral / blomstrete,Humle,Amerikansk,"Smak, aroma",7
-Fersken,Humle,Amerikansk,"Smak, aroma",7
-Bær,Humle,Amerikansk,"Smak, aroma",7
-Steinfrukt,Humle,Amerikansk,"Smak, aroma",7
-Appelsin,Humle,Amerikansk,"Smak, aroma",7
-Tropisk,Humle,Amerikansk,"Smak, aroma",7
-Floral / blomstrete,Humle,Europeisk,"Smak, aroma",7
-Jordaktig,Humle,Europeisk,"Smak, aroma",7
-Treaktig,Humle,Europeisk,"Smak, aroma",7
-Krydret,Humle,Europeisk,"Smak, aroma",7
-Te-aktig,Humle,Europeisk,"Smak, aroma",7
-Gress,Humle,Europeisk,"Smak, aroma",7
-Tropisk,Humle,Australsk / NZ,"Smak, aroma",7
-Mango,Humle,Australsk / NZ,"Smak, aroma",7
-Papaya,Humle,Australsk / NZ,"Smak, aroma",7
-Bensin,Humle,Australsk / NZ,"Smak, aroma",7
-Druer,Humle,Australsk / NZ,"Smak, aroma",7
+Beskrivelse,Ingrediens,Ingrediens Subkategori,Oppfattet i / som,Fargeindex (tab20b)
+Molasse,Sukker,Sukker,"Smak, aroma, sødme",3
+Tørket frukt,Sukker,Sukker,"Smak, aroma, sødme",3
+Sirup,Sukker,Sukker,"Smak, aroma, sødme",3
+Knekk,Sukker,Sukker,"Smak, aroma, sødme",3
+Mørk sirup,Sukker,Sukker,"Smak, aroma, sødme",3
+Brent knekk,Sukker,Sukker,"Smak, aroma, sødme",3
+Gress,Malt,Lys,"Smak, aroma, sødme",10
+Høy,Malt,Lys,"Smak, aroma, sødme",10
+Korn,Malt,Lys,"Smak, aroma, sødme",10
+Kjeks,Malt,Lys,"Smak, aroma, sødme",10
+Loff,Malt,Lys,"Smak, aroma, sødme",10
+Smørloff,Malt,Lys,"Smak, aroma, sødme",10
+Lyst brød,Malt,Lys,"Smak, aroma, sødme",10
+Søt malt,Malt,Lys,"Smak, aroma, sødme",10
+Brød,Malt,Lys,"Smak, aroma, sødme",10
+Lys brødkrumme,Malt,Lys,"Smak, aroma, sødme",10
+Ristet loff,Malt,Lys,"Smak, aroma, sødme",10
+Ristet brød,Malt,Lys,"Smak, aroma, sødme",10
+Brødskorpe,Malt,Lys,"Smak, aroma, sødme",10
+Honning,Malt,Lys,"Smak, aroma, sødme",10
+Vørter,Malt,Lys,"Smak, aroma, sødme",10
+Toffee,Malt,Karamell,"Smak, aroma, sødme",9
+Karamell,Malt,Karamell,"Smak, aroma, sødme",9
+Nøtter,Malt,Spesialmalt,"Smak, aroma, sødme",9
+Røkt skinke,Malt,Spesialmalt,"Smak, aroma, sødme",9
+Røkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",9
+Orerøkt malt,Malt,Spesialmalt,"Smak, aroma, sødme",9
+Bål,Malt,Spesialmalt,"Smak, aroma, sødme",9
+Tørket frukt,Malt,Mørk,"Smak, aroma, sødme",8
+Rosiner,Malt,Mørk,"Smak, aroma, sødme",8
+Ristet brødskorpe,Malt,Mørk,"Smak, aroma, sødme",8
+Røstet malt,Malt,Mørk,"Smak, aroma, sødme",8
+Brent brødskorpe,Malt,Mørk,"Smak, aroma, sødme",8
+Melkesjokolade,Malt,Mørk,"Smak, aroma, sødme",8
+Lakris,Malt,Mørk,"Smak, aroma, sødme",8
+Tobakk,Malt,Mørk,"Smak, aroma, sødme",8
+Mørk sjokolade,Malt,Mørk,"Smak, aroma, sødme",8
+Kaffe,Malt,Mørk,"Smak, aroma, sødme",8
+Aske,Malt,Mørk,"Smak, aroma, sødme",8
+Pære,Gjær,Ester,"Smak, aroma",15
+Røde epler,Gjær,Ester,"Smak, aroma",15
+Plommer,Gjær,Ester,"Smak, aroma",15
+Marmelade,Gjær,Ester,"Smak, aroma",15
+Tyggegummi,Gjær,Ester,"Smak, aroma",15
+Tutti Frutti,Gjær,Ester,"Smak, aroma",15
+Banan,Gjær,Ester,"Smak, aroma",15
+Nellik,Gjær,Ester,"Smak, aroma",15
+Pepper,Gjær,Ester,"Smak, aroma",15
+Stall,Gjær,Brett,"Smak, aroma",14
+Fjøs,Gjær,Brett,"Smak, aroma",14
+Lær,Gjær,Brett,"Smak, aroma",14
+Fenolisk,Usmak,Ok for noen stiler,"Smak, aroma",13
+Smørbukk (Diacetyl),Usmak,Ok for noen stiler,"Smak, aroma",13
+Hermetisk Mais (DMS),Usmak,Ok for noen stiler,"Smak, aroma",13
+Sherry /  Papp (Oksidert),Usmak,Ok for noen stiler,"Smak, aroma",13
+Brent gummi,Usmak,Ølfeil,"Smak, aroma",12
+Babyspy,Usmak,Ølfeil,"Smak, aroma",12
+Grønne epler (Acetaldehyd),Usmak,Ølfeil,"Smak, aroma",12
+Papp,Usmak,Ølfeil,"Smak, aroma",12
+Aceton / løsemiddel,Usmak,Ølfeil,"Smak, aroma",12
+Gasbind,Usmak,Ølfeil,"Smak, aroma",12
 Eik,Fatlagret,Fatlagret,"Smak, aroma",12
 Vanilje,Fatlagret,Fatlagret,"Smak, aroma",12
 Treaktig,Fatlagret,Fatlagret,"Smak, aroma",12
 Tjære,Fatlagret,Fatlagret,"Smak, aroma",12
 Spritaktig,Fatlagret,Fatlagret,"Smak, aroma",12
-Einerlåg,Andre tilsetninger,Tradisjon,"Smak, aroma",12
-Koriander,Andre tilsetninger,Krydder,"Smak, aroma",12
-Brennende,Munnfølelse,Munnfølelse,Munnfølelse,20
-Astringent,Munnfølelse,Munnfølelse,Munnfølelse,20
-Tørr,Munnfølelse,Munnfølelse,Munnfølelse,20
-Viskøs,Munnfølelse,Munnfølelse,Munnfølelse,20
-Tynn,Munnfølelse,Munnfølelse,Munnfølelse,20
-Vandig,Munnfølelse,Munnfølelse,Munnfølelse,20
-Fyldig,Munnfølelse,Munnfølelse,Munnfølelse,20
-Alkoholisk,Munnfølelse,Munnfølelse,Munnfølelse,20
-Varmende,Munnfølelse,Munnfølelse,Munnfølelse,20
-Ingen,Mengdeord,Mengdeord,Mengdeord,16
-Svak,Mengdeord,Mengdeord,Mengdeord,16
-Merkbar,Mengdeord,Mengdeord,Mengdeord,16
-Tydelig,Mengdeord,Mengdeord,Mengdeord,16
-Kraftig,Mengdeord,Mengdeord,Mengdeord,16
-Dominerende,Mengdeord,Mengdeord,Mengdeord,16
+Einerlåg,Andre tilsetninger,Tradisjon,"Smak, aroma",6
+Koriander,Andre tilsetninger,Krydder,"Smak, aroma",6
+Nellik,Andre tilsetninger,Krydder,"Smak, aroma",6
+Appelsinskall,Andre tilsetninger,Krydder,"Smak, aroma",6
+Sitrus,Humle,Amerikansk,"Smak, aroma",5
+Grapefrukt,Humle,Amerikansk,"Smak, aroma",5
+Lime,Humle,Amerikansk,"Smak, aroma",5
+Harpiks,Humle,Amerikansk,"Smak, aroma",5
+Furu,Humle,Amerikansk,"Smak, aroma",5
+Floral / blomstrete,Humle,Amerikansk,"Smak, aroma",5
+Fersken,Humle,Amerikansk,"Smak, aroma",5
+Bær,Humle,Amerikansk,"Smak, aroma",5
+Steinfrukt,Humle,Amerikansk,"Smak, aroma",5
+Appelsin,Humle,Amerikansk,"Smak, aroma",5
+Tropisk,Humle,Amerikansk,"Smak, aroma",5
+Floral / blomstrete,Humle,Europeisk,"Smak, aroma",5
+Jordaktig,Humle,Europeisk,"Smak, aroma",5
+Treaktig,Humle,Europeisk,"Smak, aroma",5
+Krydret,Humle,Europeisk,"Smak, aroma",5
+Te-aktig,Humle,Europeisk,"Smak, aroma",5
+Gress,Humle,Europeisk,"Smak, aroma",5
+Tropisk,Humle,Australsk / NZ,"Smak, aroma",5
+Mango,Humle,Australsk / NZ,"Smak, aroma",5
+Papaya,Humle,Australsk / NZ,"Smak, aroma",5
+Bensin,Humle,Australsk / NZ,"Smak, aroma",5
+Druer,Humle,Australsk / NZ,"Smak, aroma",5
+Brennende,Munnfølelse,Munnfølelse,Munnfølelse,2
+Astringent,Munnfølelse,Munnfølelse,Munnfølelse,2
+Tørr,Munnfølelse,Munnfølelse,Munnfølelse,2
+Viskøs,Munnfølelse,Munnfølelse,Munnfølelse,2
+Tynn,Munnfølelse,Munnfølelse,Munnfølelse,2
+Vandig,Munnfølelse,Munnfølelse,Munnfølelse,2
+Fyldig,Munnfølelse,Munnfølelse,Munnfølelse,2
+Alkoholisk,Munnfølelse,Munnfølelse,Munnfølelse,2
+Varmende,Munnfølelse,Munnfølelse,Munnfølelse,2
+Ingen,Mengdeord,Mengdeord,Mengdeord,3
+Svak,Mengdeord,Mengdeord,Mengdeord,3
+Merkbar,Mengdeord,Mengdeord,Mengdeord,3
+Tydelig,Mengdeord,Mengdeord,Mengdeord,3
+Kraftig,Mengdeord,Mengdeord,Mengdeord,3
+Dominerende,Mengdeord,Mengdeord,Mengdeord,3
