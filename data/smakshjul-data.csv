@@ -47,16 +47,16 @@ Tutti Frutti,Gjær,Ester,"Smak, aroma",15
 Banan,Gjær,Ester,"Smak, aroma",15
 Nellik,Gjær,Ester,"Smak, aroma",15
 Pepper,Gjær,Ester,"Smak, aroma",15
+Fenolisk,Gjær,Ester,"Smak, aroma",13
 Stall,Gjær,Brett,"Smak, aroma",14
 Fjøs,Gjær,Brett,"Smak, aroma",14
 Lær,Gjær,Brett,"Smak, aroma",14
-Fenolisk,Usmak,Ok for noen stiler,"Smak, aroma",13
-Smørbukk (Diacetyl),Usmak,Ok for noen stiler,"Smak, aroma",13
-Hermetisk Mais (DMS),Usmak,Ok for noen stiler,"Smak, aroma",13
-Sherry /  Papp (Oksidert),Usmak,Ok for noen stiler,"Smak, aroma",13
+Smørbukk,Usmak,Ølfeil,"Smak, aroma",13
+Hermetisk Mais,Usmak,Ølfeil,"Smak, aroma",13
+Sherry /  Papp,Usmak,Ølfeil,"Smak, aroma",13
+Grønne epler,Usmak,Ølfeil,"Smak, aroma",12
 Brent gummi,Usmak,Ølfeil,"Smak, aroma",12
 Babyspy,Usmak,Ølfeil,"Smak, aroma",12
-Grønne epler (Acetaldehyd),Usmak,Ølfeil,"Smak, aroma",12
 Papp,Usmak,Ølfeil,"Smak, aroma",12
 Aceton / løsemiddel,Usmak,Ølfeil,"Smak, aroma",12
 Gasbind,Usmak,Ølfeil,"Smak, aroma",12
@@ -65,10 +65,10 @@ Vanilje,Fatlagret,Fatlagret,"Smak, aroma",12
 Treaktig,Fatlagret,Fatlagret,"Smak, aroma",12
 Tjære,Fatlagret,Fatlagret,"Smak, aroma",12
 Spritaktig,Fatlagret,Fatlagret,"Smak, aroma",12
-Einerlåg,Andre tilsetninger,Tradisjon,"Smak, aroma",6
-Koriander,Andre tilsetninger,Krydder,"Smak, aroma",6
-Nellik,Andre tilsetninger,Krydder,"Smak, aroma",6
-Appelsinskall,Andre tilsetninger,Krydder,"Smak, aroma",6
+Einerlåg,Tilsetning,Tradisjon,"Smak, aroma",6
+Koriander,Tilsetning,Krydder,"Smak, aroma",6
+Nellik,Tilsetning,Krydder,"Smak, aroma",6
+Appelsinskall,Tilsetning,Krydder,"Smak, aroma",6
 Sitrus,Humle,Amerikansk,"Smak, aroma",5
 Grapefrukt,Humle,Amerikansk,"Smak, aroma",5
 Lime,Humle,Amerikansk,"Smak, aroma",5
