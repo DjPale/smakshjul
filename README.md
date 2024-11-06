@@ -25,12 +25,11 @@ The first line in the file will correspond to the mid top of the circle and it w
 ## Possible improvements
 Things that can be done to improve the program further:
 
-- Support command-line parameters with various options like
+- [x] Support command-line parameters with various options like
   - Toggle mid / inner visibility
   - Scaling
-  - Fonts
+  - Font size
   - Colors
-  - etc.
-- Control the inner category color in a better way - now it just picks the first color of the category
-- Merge inner and mid categories if they are identical
-- Some more tweaks to better align font placement
+- [ ] Control the inner category color in a better way - now it just picks the first color of the category
+- [ ] Merge inner and mid categories if they are identical
+- [ ] Some more tweaks to better align font placement
